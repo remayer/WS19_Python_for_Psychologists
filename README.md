@@ -1,4 +1,4 @@
-# WS19/20 Introduction to Python for Psychologists
+# Introduction to Python for Psychologists (WS19/20)
 
 This repo contains an introduction to Open and reproducible scientific programming for psychologists in Python held at the University of Frankfurt, Department of Psychology. 
 

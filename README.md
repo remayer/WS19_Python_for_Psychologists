@@ -18,9 +18,9 @@ We will upload the weekly course materials prior to each session. To follow the 
 | -------| ----------------------|-------------------|
 | 17.10  | Introduction          | 22.10 - 11.59 pm  |
 | 24.10  | Data Structure/Types  | 29.10 - 11.59 pm  |
-| 31.10  | Control Flow          | 05.11 - 11.59 pm  |
+| 31.10  | Data Structures II         | 05.11 - 11.59 pm  |
 | 07.11  | Function, Modules     | 12.11 - 11.59 pm  |
-| 14.11  | Data Structures II    | 19.11 - 11.59 pm  |
+| 14.11  | Control Flow Ops   | 19.11 - 11.59 pm  |
 | 21.11  | Data Frames Handling  | 26.11 - 11.59 pm  |
 | 28.11  | Classes               | 03.12 - 11.59 pm  |
 | 05.12  | Visualization I       | 10.12 - 11.59 pm  |

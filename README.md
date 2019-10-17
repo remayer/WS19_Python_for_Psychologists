@@ -16,9 +16,9 @@ We will upload the weekly course materials prior to each session. To follow the 
 
 | Date   | Topic          |     Assignment until |
 | -------| ----------------------|-------------------|
-| 17.10  | Introduction          | 22.10 - 11.59 pm  |
-| 24.10  | Data Structure I  | 29.10 - 11.59 pm  |
-| 31.10  | Data Structures II         | 05.11 - 11.59 pm  |
+| 17.10  | Introduction (types, lists)          | 22.10 - 11.59 pm  |
+| 24.10  | Dictionaries; Errors  | 29.10 - 11.59 pm  |
+| 31.10  | sets, dataframes        | 05.11 - 11.59 pm  |
 | 07.11  | Function, Modules     | 12.11 - 11.59 pm  |
 | 14.11  | Control Flow Ops   | 19.11 - 11.59 pm  |
 | 21.11  | Classes | 26.11 - 11.59 pm  |

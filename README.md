@@ -17,7 +17,7 @@ We will upload the weekly course materials prior to each session. To follow the 
 | Date   | Topic          |     Assignment until |
 | -------| ----------------------|-------------------|
 | 17.10  | Introduction (types, lists)          | 22.10 - 11.59 pm  |
-| 24.10  | Dictionaries; Errors  | 29.10 - 11.59 pm  |
+| 24.10  | Dictionaries, Tuples, Errors, Modules  | 29.10 - 11.59 pm  |
 | 31.10  | sets, dataframes        | 05.11 - 11.59 pm  |
 | 07.11  | Function, Modules     | 12.11 - 11.59 pm  |
 | 14.11  | Control Flow Ops   | 19.11 - 11.59 pm  |

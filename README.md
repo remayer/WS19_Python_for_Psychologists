@@ -19,8 +19,8 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 17.10  | Introduction (types, lists)          | 22.10 - 11.59 pm  |
 | 24.10  | Dictionaries, Tuples, Errors, Modules  | 29.10 - 11.59 pm  |
 | 31.10  | sets, dataframes, pandas        | 05.11 - 11.59 pm  |
-| 07.11  | Function, Modules     | 12.11 - 11.59 pm  |
-| 14.11  | Control Flow Ops   | 19.11 - 11.59 pm  |
+| 07.11  | Control Flow Ops     | 12.11 - 11.59 pm  |
+| 14.11  | Functions   | 19.11 - 11.59 pm  |
 | 21.11  | Classes | 26.11 - 11.59 pm  |
 | 28.11  | Data Frames Handling               | 03.12 - 11.59 pm  |
 | 05.12  | Visualization I       | 10.12 - 11.59 pm  |

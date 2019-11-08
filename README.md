@@ -9,7 +9,7 @@ If you have not yet done so [Download and install Anaconda](https://www.anaconda
 
 ## Usage
 
-We will upload the weekly course materials prior to each session. To follow the course, please download the respective notebook. Additional materials, such as .csv files, will be also available her. 
+We will upload the weekly course materials prior to each session. To follow the course, please download the respective notebook. Additional materials, such as .csv files, will be also available here. 
 
 
 ## tentative structure 

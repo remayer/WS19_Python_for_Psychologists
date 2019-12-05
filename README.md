@@ -24,11 +24,11 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 21.11  | Classes | 26.11 - 11.59 pm  |
 | 28.11  | Data Frames Handling               | 03.12 - 11.59 pm  |
 | 05.12  | Data Frame Handling II - Hands on      | 10.12 - 11.59 pm  |
-| 12.12  | PsychoPy I            | 17.12 - 11.59 pm  |
-| 19.12  | PsychoPy II           | 14.01 - 11.59 pm  |
+| 12.12  | Visualization            | 17.12 - 11.59 pm  |
+| 19.12  | PsychoPy I           | 14.01 - 11.59 pm  |
 |        | Holidays              |                   |
-| 16.01  | PsychoPy III          | 21.01 - 11.59 pm  |
-| 23.01  | Visualization II      | 28.01 - 11.59 pm  |
+| 16.01  | PsychoPy II          | 21.01 - 11.59 pm  |
+| 23.01  | PsychoPy III      | 28.01 - 11.59 pm  |
 | 30.01  | tba      |   |
 | 06.02  | tba      |   |
 | 13.02  | tba      |   |

@@ -1,6 +1,6 @@
 # Introduction to Python for Psychologists (WS19/20)
 
-This repo contains an introduction to Open and reproducible scientific programming for psychologists in Python held at the University of Frankfurt, Department of Psychology. 
+This repo contains an introduction to Open and reproducible scientific programming for psychologists in Python held at the University of Frankfurt, Department of Psychology by Rebecca Mayer and Dominik Kraft. 
 
 The course is intended for students who are new to programming. 
 

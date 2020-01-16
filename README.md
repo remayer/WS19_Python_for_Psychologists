@@ -31,7 +31,7 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 23.01  | PsychoPy III      | -  |
 | 30.01  | PsychoPy IV      | 04.02 - 11.59 pm  |
 | 06.02  | tba      |   |
-| 13.02  | tba      |   |
+| 13.02  | Outlook and handy tools      |   |
 
 
 

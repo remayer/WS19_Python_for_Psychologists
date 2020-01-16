@@ -24,7 +24,7 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 21.11  | Classes | 26.11 - 11.59 pm  |
 | 28.11  | Data Frames Handling               | 03.12 - 11.59 pm  |
 | 05.12  | Data Frame Handling II - Hands on      | 10.12 - 11.59 pm  |
-| 12.12  | Recap & Visualization            |   |
+| 12.12  | Recap & Visualization            | -  |
 | 19.12  | PsychoPy I           | -  |
 |        | +++++++++ Holidays +++++++++              |                   |
 | 16.01  | PsychoPy II          | -  |

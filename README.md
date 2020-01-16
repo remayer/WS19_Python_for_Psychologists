@@ -28,8 +28,8 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 19.12  | PsychoPy I           | -  |
 |        | +++++++++ Holidays +++++++++              |                   |
 | 16.01  | PsychoPy II          | -  |
-| 23.01  | PsychoPy III      | 28.01 - 11.59 pm  |
-| 30.01  | tba      |   |
+| 23.01  | PsychoPy III      | -  |
+| 30.01  | PsychoPy IV      | 04.02 - 11.59 pm  |
 | 06.02  | tba      |   |
 | 13.02  | tba      |   |
 

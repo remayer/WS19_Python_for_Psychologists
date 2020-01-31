@@ -1,6 +1,6 @@
 # Introduction to Python for Psychologists (WS19/20)
 
-This repo contains an introduction to Open and reproducible scientific programming for psychologists in Python held at the University of Frankfurt, Department of Psychology by Rebecca Mayer and Dominik Kraft. 
+This repo contains an introduction to open and reproducible scientific programming for psychologists in Python held at the University of Frankfurt, Department of Psychology by Rebecca Mayer and Dominik Kraft. 
 
 The course is intended for students who are new to programming. 
 
@@ -9,7 +9,7 @@ If you have not yet done so [Download and install Anaconda](https://www.anaconda
 
 ## Usage
 
-We will upload the weekly course materials prior to each session. To follow the course, please download the respective notebook. Additional materials, such as .csv files, will be also available here. 
+We will upload the weekly course materials prior to each session. To follow the course, please download the respective notebook/script. Additional materials, such as .csv files, will be also available here. 
 
 
 ## Tentative structure 
@@ -30,7 +30,7 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 16.01  | PsychoPy II          | -  |
 | 23.01  | PsychoPy III      | -  |
 | 30.01  | PsychoPy IV      | 04.02 - 11.59 pm  |
-| 06.02  | Recap: Handling data in data frames     |   |
+| 06.02  | Recap: Handling data in data frames     |  - |
 
 
 

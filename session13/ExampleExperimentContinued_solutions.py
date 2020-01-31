@@ -3,8 +3,6 @@
 ##### Experiment adapted from: 
 ## Nehler, K. J. & Sassenhagen, J. (2020). DRM-Paradigm with Psychopy: An in-depth look at Programming Experiments. In S.E.P. Boettcher, D. Draschkow, J. Sassenhagen & M. Schultze (Eds.). *Scientific Methods for Open Behavioral, Social and Cognitive Sciences*. https://doi.org/10.17605/OSF.IO/M2YDS
 
-
-
 from __future__ import unicode_literals, print_function, division  
 from random import shuffle
 from random import choice
@@ -64,7 +62,7 @@ Try to remember as many words as you can.
 Press any key to start.
 """
 
-procede_text = "Please press 'Enter' to continue with the next part of the experiment."
+proceed_text = "Please press 'Enter' to continue with the next part of the experiment."
 
 goodbye_text = "Thank you for your participation. Press ENTER to exit the experiment."
 
@@ -188,11 +186,11 @@ subject_ID = text_writer(instruction_codegeneration)
 ####################################
 #### TASK 10: Present the "procede_text" on the screen. Then, wait for the subejct to press "return" or "enter" (argument "keyList"). Finally, create a function called 
 ####          "procede_screen()" out of your code, and call the function to present the procede_screen. 
-def procede_screen():
-    visual.TextStim(win, procede_text).draw() 
+def proceed_screen():
+    visual.TextStim(win, proceed_text).draw() 
     win.flip() 
     event.waitKeys(keyList = ["return", "enter"]) 
-procede_screen()
+proceed_screen()
 
 
 
@@ -232,7 +230,7 @@ for stim in learn_stims:
 #### Present the proceed text ####
 ##################################
 #### TASK 12: Present the proceed_screen()
-procede_screen()
+proceed_screen()
 
 
 
@@ -289,10 +287,12 @@ legend = visual.TextStim(win, "A ({})                                           
 ####          The wordtype is supposed to be "neutral" in case the word was from one of the non-profession categories. In case the word was a learned word from the subject's profession category
 ####          "old_future" or "old_past" (depending on condition) should be logged. If the word comes from the new_future list, "new_future" whould be logged. If the word comes from the new_past list
 ####          "new_past" should be logged. In any other case "neutral" should be logged.
+####          By the way, normally, we wouldn't define the same function twice inside one script, but would rather define it once, maybe somewhere in the upper part of the script.
+####          But for purposes of easier separation of the process into single tasks, we will just define the function again, down here.
 
 file_name = subject_ID + "_"+ condition + "_Learned"+ answer_keys[0]+ ".csv"
 with open(file_name, "w") as f:
-    print("word,wordtype,key,rt", file=f)
+    print("word,wordcategory,key,rt", file=f)
 
 def show_words(text, phase):
     word = visual.TextStim(win, text)
@@ -305,9 +305,9 @@ def show_words(text, phase):
         win.callOnFlip(clocki.reset)
         win.flip()
         key, rt = event.waitKeys(timeStamped=clocki, keyList =("a","l"))[0] 
-        word_type = "old_future" if text in old_future else ("old_past" if text in old_past else ("new_future" if text in new_future else ("new_past" if text in new_past else "neutral")))
+        word_category = "old_future" if text in old_future else ("old_past" if text in old_past else ("new_future" if text in new_future else ("new_past" if text in new_past else "neutral")))
         with open(file_name, "a") as f:
-            print("{},{},{},{}".format(text,word_type,key,rt), file=f)
+            print("{},{},{},{}".format(text,word_category,key_assign[key.upper()],rt), file=f)
         
 
 

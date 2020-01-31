@@ -12,7 +12,7 @@ If you have not yet done so [Download and install Anaconda](https://www.anaconda
 We will upload the weekly course materials prior to each session. To follow the course, please download the respective notebook. Additional materials, such as .csv files, will be also available here. 
 
 
-## tentative structure 
+## Tentative structure 
 
 | Date   | Topic          |     Assignment until |
 | -------| ----------------------|-------------------|
@@ -30,12 +30,8 @@ We will upload the weekly course materials prior to each session. To follow the 
 | 16.01  | PsychoPy II          | -  |
 | 23.01  | PsychoPy III      | -  |
 | 30.01  | PsychoPy IV      | 04.02 - 11.59 pm  |
-| 06.02  | tba      |   |
-| 13.02  | Outlook and handy tools      |   |
+| 06.02  | Recap: Handling data in data frames     |   |
 
 
 
-
-
-http://r.sd.uni-frankfurt.de/fdeb9378
 

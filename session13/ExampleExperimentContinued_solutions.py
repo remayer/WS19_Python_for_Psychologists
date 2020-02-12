@@ -182,10 +182,10 @@ subject_ID = text_writer(instruction_codegeneration)
 
 
 ####################################
-#### Present the "procede_text" ####
+#### Present the "proceed_text" ####
 ####################################
-#### TASK 10: Present the "procede_text" on the screen. Then, wait for the subejct to press "return" or "enter" (argument "keyList"). Finally, create a function called 
-####          "procede_screen()" out of your code, and call the function to present the procede_screen. 
+#### TASK 10: Present the "proceed_text" on the screen. Then, wait for the subejct to press "return" or "enter" (argument "keyList"). Finally, create a function called 
+####          "proceed_screen()" out of your code, and call the function to present the procede_screen. 
 def proceed_screen():
     visual.TextStim(win, proceed_text).draw() 
     win.flip() 

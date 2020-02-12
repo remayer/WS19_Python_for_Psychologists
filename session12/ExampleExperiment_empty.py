@@ -57,7 +57,7 @@ Try to remember as many words as you can.
 Press any key to start.
 """
 
-procede_text = "Please press 'Enter' to continue with the next part of the experiment."
+proceed_text = "Please press 'Enter' to continue with the next part of the experiment."
 
 
 
@@ -173,10 +173,10 @@ def text_writer(msg):
 
 
 ####################################
-#### Present the "procede_text" ####
+#### Present the "proceed_text" ####
 ####################################
-#### TASK 10: Present the "procede_text" on the screen. Then, wait for the subejct to press "return" or "enter" (argument "keyList"). Finally, create a function called 
-####          "procede_screen()" out of your code, and call the function to present the procede_screen. 
+#### TASK 10: Present the "proceed_text" on the screen. Then, wait for the subejct to press "return" or "enter" (argument "keyList"). Finally, create a function called 
+####          "proceed_screen()" out of your code, and call the function to present the procede_screen. 
 
 
 

@@ -57,7 +57,7 @@ for letter in stimuli_letters:
     else:
         keys.append("miss")
         rts.append("miss")
-        ######### TASK 4 - PART 2: WRITE MISSES TO LOGFILE ################################################
+        ######### TASK 4 - PART 3: WRITE MISSES TO LOGFILE ################################################
         with open(logfile_name, 'a') as f:
             print("miss", file=f)
 

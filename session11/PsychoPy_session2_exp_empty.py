@@ -4,7 +4,7 @@ rts=[]
 keys=[]
 
 win = visual.Window(size=[500,500])
-clocki = core.Clock()
+rt_clock = core.Clock()
 texti = visual.TextStim(win, "")
 
 for letter in ["A", "B", "C", "D", "E", "F", "G"]:
@@ -13,8 +13,8 @@ for letter in ["A", "B", "C", "D", "E", "F", "G"]:
     texti.draw(win)
 
     win.flip()
-    clocki.reset() # so that RTs are time elapsed since stimulus presentation
-    resp = event.waitKeys(maxWait = 3, timeStamped = clocki)
+    rt_clock.reset() # so that RTs are time elapsed since stimulus presentation
+    resp = event.waitKeys(maxWait = 3, timeStamped = rt_clock)
     if resp is not None:
         [(key, rt)] = resp
         keys.append(key)
@@ -22,8 +22,5 @@ for letter in ["A", "B", "C", "D", "E", "F", "G"]:
     else:
         keys.append("miss")
         rts.append("miss")
-
-print(keys)
-print(rts)
 
 win.close()

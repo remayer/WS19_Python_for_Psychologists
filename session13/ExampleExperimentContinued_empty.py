@@ -201,7 +201,6 @@ proceed_screen()
 #####################################################
 #### Present a short break before stimulus onset ####
 #####################################################
-visual.TextStim(win, "").draw() 
 win.flip() 
 core.wait(2)
 
